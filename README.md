@@ -143,7 +143,7 @@ View file
 
 
 
-                  <img src= "Nseari.jpg"></img>
+                  <img src= "https://github.com/Nseari/CV/blob/master/Nseari.jpg"></img>
 
 
 
