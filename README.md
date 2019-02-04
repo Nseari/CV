@@ -25,7 +25,7 @@
 
             <td>
 
-                    <img href="CV/Nseari.jpg "></img>
+                    <img src="CV/Nseari.jpg "></img>
 
             </td>
 
