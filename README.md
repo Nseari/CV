@@ -163,7 +163,8 @@ View file
 
 
 
-                    <P>I am am a Web Develper who also ❤ drawing</P>
+                    <P>I am a Web Develper <P> 
+                    <p>I ❤ drawing</P>
 
 
 
