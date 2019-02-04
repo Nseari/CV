@@ -12,7 +12,7 @@
 
     <title>❦Nseari Ndifon</title>
 
-    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="stylesheet" href="styles.css">
 
 </head>
 
